@@ -13,7 +13,7 @@
 
 //we have an array that contains and unknown number of true and false elements. We want to figure out how many elements are TRUE in the array.
 
-//Make a new array with only the true elements- then find out how many using arr.length-1
+//Make a new array with only the true elements- then find out how many using arr.length
 
 
 function countSheeps(arrayOfSheep){
