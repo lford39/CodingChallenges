@@ -16,7 +16,6 @@ function betterThanAverage(classPoints, yourPoints) {
 
 }
 
-betterThanAverage([100, 40, 34, 57, 29, 72, 57, 88], 75)
 
   //or try
 // function betterThanAverage(classPoints, yourPoints) {
