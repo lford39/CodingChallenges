@@ -18,7 +18,7 @@ function betterThanAverage(classPoints, yourPoints) {
 
 betterThanAverage([100, 40, 34, 57, 29, 72, 57, 88], 75)
 
-//or
+  //or try
 // function betterThanAverage(classPoints, yourPoints) {
 //     return yourPoints > classPoints.reduce((a, b) => a + b, 0) / classPoints.length; 
 //   }
