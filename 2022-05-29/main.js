@@ -17,5 +17,3 @@ function highAndLow(numbers){
     let highNum = arrNums[arrNums.length-1]
     return `${highNum} ${lowNum}`
   }
-
-  highAndLow("1 9 3 4 -5")
