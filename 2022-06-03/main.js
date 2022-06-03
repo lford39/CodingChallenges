@@ -7,8 +7,10 @@
 // Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
 // Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 
+//Solution
+
 String.prototype.toJadenCase = function () {
     return this.split(' ')//turns 'this' (string) into array, each word is an element
       .map(word => word.charAt(0).toUpperCase() + word.slice(1))//map iterates through, changes first letter to uppercase, then adds the rest of word. Returns new, modified array
       .join(' ');//puts array back into string
-  };
+  }
