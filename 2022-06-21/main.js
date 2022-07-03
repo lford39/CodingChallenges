@@ -11,7 +11,6 @@
 // 1 -->  1
 // 2 --> 3 + 5 = 8
 
-//sum of last, lower odd numbers. Amount of numbers added is determined by length of line
 //Solution
 function rowSumOddNumbers(n) {
     return Math.pow(n, 3);
